@@ -1,9 +1,9 @@
 ---
-layout: index
-title: Home
+layout: indice
+title: Casa
 isHome: true
 ---
 
-# Real, beautiful plants right to your door
+# Real, LA natalia es muy guapa
 
  
